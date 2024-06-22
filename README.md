@@ -31,15 +31,13 @@ FilmFinder es una aplicación de recomendación de películas construida con Nex
 ````bash
    git clone https://github.com/tuusuario/filmfinder.git
    cd filmfinder
-
-2. Instala las dependencias:
-```bash
-   npm install
-
-3. Ejecuta la aplicación en modo desarrollo:
-```bash
-    npm run dev:
-
-
-
 ````
+2. Instala las dependencias:
+````bash
+   npm install
+````
+3. Ejecuta la aplicación en modo desarrollo:
+````bash
+    npm run dev
+````
+
